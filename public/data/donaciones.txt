@@ -1,0 +1,29 @@
+[
+  {
+    "tipo": "formulario",
+    "nombre": "Lucía Fernández",
+    "email": "lucia@example.com",
+    "monto": 50,
+    "fecha": "2024-11-05T14:32:00Z"
+  },
+  {
+    "tipo": "formulario",
+    "nombre": "Marta Gómez",
+    "email": "marta@example.com",
+    "monto": 120,
+    "fecha": "2024-12-01T09:15:00Z"
+  },
+  {
+    "tipo": "qr",
+    "nombre": "Donador anónimo",
+    "monto": 200,
+    "fecha": "2025-01-10T11:45:00Z"
+  },
+  {
+    "tipo": "formulario",
+    "nombre": "Carla Torres",
+    "email": "carla@example.com",
+    "monto": 75,
+    "fecha": "2025-03-12T18:10:00Z"
+  }
+]

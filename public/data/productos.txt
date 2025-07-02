@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "nombre": "Set de Brochas",
+    "precio": 65.00,
+    "descripcion": "Kit profesional de brochas veganas con estuche.",
+    "imagen": "/img/productos/brochas.jpg",
+    "etiquetas": ["Nuevo", "Best Seller"]
+  },
+  {
+    "id": 2,
+    "nombre": "Crema Hidratante Facial",
+    "precio": 45.00,
+    "descripcion": "Para todo tipo de piel. Hidratación profunda.",
+    "imagen": "/img/productos/crema.jpg",
+    "etiquetas": ["Popular", "Importado"]
+  },
+  {
+    "id": 3,
+    "nombre": "Paleta de Sombras",
+    "precio": 89.00,
+    "descripcion": "Colores vibrantes para looks de día y noche.",
+    "imagen": "/img/productos/sombras.jpg",
+    "etiquetas": ["Nuevo"]
+  },
+  {
+    "id": 4,
+    "nombre": "Serum Vitamina C",
+    "precio": 70.00,
+    "descripcion": "Aclara la piel y mejora la textura.",
+    "imagen": "/img/productos/serum.jpg",
+    "etiquetas": ["Producto de Temporada"]
+  }
+]

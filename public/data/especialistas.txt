@@ -1,0 +1,46 @@
+[
+  {
+    "id": 1,
+    "nombre": "Andrea Vargas",
+    "especialidad": "Maquillaje Profesional",
+    "descripcion": "Especialista en maquillaje para eventos sociales, televisión y sesiones fotográficas. Apasionada por resaltar la belleza natural de cada cliente con técnicas avanzadas de maquillaje.",
+    "foto": "/img/especialistas/andrea.jpg",
+    "instagram": "https://www.instagram.com/andreavargas.makeup",
+    "whatsapp": "51987654321",
+    "email": "andrea.vargas@claudiaherrera.pe",
+    "telefono": "+51 987 654 321"
+  },
+  {
+    "id": 2,
+    "nombre": "Valeria Ríos",
+    "especialidad": "Cuidado Facial",
+    "descripcion": "Experta en tratamientos faciales no invasivos, con enfoque en la salud y regeneración de la piel. Certificada en técnicas dermocosméticas y estética clínica.",
+    "foto": "/img/especialistas/valeria.jpg",
+    "instagram": "https://www.instagram.com/valeriarios.skin",
+    "whatsapp": "51912345678",
+    "email": "valeria.rios@claudiaherrera.pe",
+    "telefono": "+51 912 345 678"
+  },
+  {
+    "id": 3,
+    "nombre": "Luciana Romero",
+    "especialidad": "Peinados y Estilo",
+    "descripcion": "Técnicas de peinado para toda ocasión: bodas, eventos, sesiones fotográficas. Especializada en visagismo y asesoría de imagen capilar.",
+    "foto": "/img/especialistas/luciana.jpg",
+    "instagram": "https://www.instagram.com/lucianar.hair",
+    "whatsapp": "51976543210",
+    "email": "luciana.romero@claudiaherrera.pe",
+    "telefono": "+51 976 543 210"
+  },
+  {
+    "id": 4,
+    "nombre": "Fiorella Medina",
+    "especialidad": "Uñas & Nail Art",
+    "descripcion": "Diseños personalizados, cuidado avanzado de uñas, técnicas de gel, acrílico y esmaltado semipermanente. Comprometida con la elegancia y el detalle.",
+    "foto": "/img/especialistas/fiorella.jpg",
+    "instagram": "https://www.instagram.com/fiorellanails.art",
+    "whatsapp": "51933445566",
+    "email": "fiorella.medina@claudiaherrera.pe",
+    "telefono": "+51 933 445 566"
+  }
+]

@@ -1,0 +1,14 @@
+{
+  "name": "Claudia Herrera Boutique",
+  "short_name": "ClaudiaApp",
+  "theme_color": "#FF69B4",
+  "background_color": "#FFD1DC",
+  "display": "standalone",
+  "icons": [
+    {
+      "src": "/logo-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
+}
