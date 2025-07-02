@@ -164,7 +164,7 @@ onMounted(async () => {
 
 function actualizarMetricas() {
   const historial = readFromStorage('donaciones') || []
-  montoTotalDonado.value = historial.reduce((acc, don) => acc + (don.monto || 0), 0)
+  montoTotalDonado.value = historial.reduce((acc, don) => acc + Number(don.monto || 0), 0)
   totalDonaciones.value = historial.length
   mujeresApoyadas.value = Math.floor(montoTotalDonado.value / 100)
 }
