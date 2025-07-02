@@ -154,11 +154,13 @@ const totalDonaciones = ref(0)
 const mujeresApoyadas = ref(0)
 
 onMounted(async () => {
-  const donaciones = await readTxtFile('/data/donaciones.txt')
-  writeToStorage('donaciones', donaciones)
+  const yaExiste = readFromStorage('donaciones')
+  if (!yaExiste || yaExiste.length === 0) {
+    const donaciones = await readTxtFile('/data/donaciones.txt')
+    writeToStorage('donaciones', donaciones)
+  }
   actualizarMetricas()
 })
-
 
 function actualizarMetricas() {
   const historial = readFromStorage('donaciones') || []
