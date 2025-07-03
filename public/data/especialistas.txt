@@ -1,46 +1,57 @@
 [
   {
     "id": 1,
-    "nombre": "Andrea Vargas",
-    "especialidad": "Maquillaje Profesional",
-    "descripcion": "Especialista en maquillaje para eventos sociales, televisión y sesiones fotográficas. Apasionada por resaltar la belleza natural de cada cliente con técnicas avanzadas de maquillaje.",
-    "foto": "/img/especialistas/andrea.jpg",
-    "instagram": "https://www.instagram.com/andreavargas.makeup",
+    "nombre": "Claudia Herrera",
+    "especialidad": "Enfermería y Manicure",
+    "descripcion": "Profesional en enfermería con formación especializada en manicure. Su enfoque combina el cuidado de la salud con la estética, brindando a sus clientas un servicio seguro, higiénico y de alta calidad. Apasionada por el detalle y el bienestar integral.",
+    "foto": "/img/especialistas/claudia.jpg",
+    "instagram": "https://www.instagram.com/claudiaherrera.pe",
     "whatsapp": "51987654321",
-    "email": "andrea.vargas@claudiaherrera.pe",
-    "telefono": "+51 987 654 321"
+    "email": "claudia.herrera@claudiaherrera.pe",
+    "telefono": "+51 987 654 321"
   },
   {
     "id": 2,
-    "nombre": "Valeria Ríos",
-    "especialidad": "Cuidado Facial",
-    "descripcion": "Experta en tratamientos faciales no invasivos, con enfoque en la salud y regeneración de la piel. Certificada en técnicas dermocosméticas y estética clínica.",
-    "foto": "/img/especialistas/valeria.jpg",
-    "instagram": "https://www.instagram.com/valeriarios.skin",
-    "whatsapp": "51912345678",
-    "email": "valeria.rios@claudiaherrera.pe",
-    "telefono": "+51 912 345 678"
+    "nombre": "Estefani Chávez",
+    "especialidad": "Manicure y Uñas",
+    "descripcion": "Especialista en manicure y diseño de uñas con un estilo moderno y creativo. Estefani se destaca por su precisión, pasión por los detalles y por ofrecer a sus clientas un acabado impecable que refleja su personalidad. Siempre a la vanguardia en tendencias y técnicas.",
+    "foto": "/img/especialistas/estefany.jpg",
+    "instagram": "https://www.instagram.com/estefani.chavez.nails",
+    "whatsapp": "51987654322",
+    "email": "estefani.chavez@claudiaherrera.pe",
+    "telefono": "+51 987 654 322"
   },
   {
     "id": 3,
-    "nombre": "Luciana Romero",
-    "especialidad": "Peinados y Estilo",
-    "descripcion": "Técnicas de peinado para toda ocasión: bodas, eventos, sesiones fotográficas. Especializada en visagismo y asesoría de imagen capilar.",
-    "foto": "/img/especialistas/luciana.jpg",
-    "instagram": "https://www.instagram.com/lucianar.hair",
-    "whatsapp": "51976543210",
-    "email": "luciana.romero@claudiaherrera.pe",
-    "telefono": "+51 976 543 210"
+    "nombre": "Angie",
+    "especialidad": "Manicure y Cabello",
+    "descripcion": "Especialista en el cuidado de manos y cabello, Angie combina técnicas modernas con un enfoque personalizado para realzar la belleza natural de cada clienta. Su compromiso con la perfección y la estética la convierten en una profesional integral y confiable.",
+    "foto": "/img/especialistas/angie.jpg",
+    "instagram": "https://www.instagram.com/angie.styles.pe",
+    "whatsapp": "51987654323",
+    "email": "angie@claudiaherrera.pe",
+    "telefono": "+51 987 654 323"
   },
   {
     "id": 4,
-    "nombre": "Fiorella Medina",
-    "especialidad": "Uñas & Nail Art",
-    "descripcion": "Diseños personalizados, cuidado avanzado de uñas, técnicas de gel, acrílico y esmaltado semipermanente. Comprometida con la elegancia y el detalle.",
-    "foto": "/img/especialistas/fiorella.jpg",
-    "instagram": "https://www.instagram.com/fiorellanails.art",
-    "whatsapp": "51933445566",
-    "email": "fiorella.medina@claudiaherrera.pe",
-    "telefono": "+51 933 445 566"
+    "nombre": "María",
+    "especialidad": "Uñas y Técnica en Contabilidad",
+    "descripcion": "María es una profesional versátil que combina su pasión por el arte en uñas con una formación sólida como técnica en contabilidad. Su enfoque meticuloso y organizado se refleja tanto en sus diseños como en la atención personalizada que brinda a cada clienta.",
+    "foto": "/img/especialistas/maria.jpg",
+    "instagram": "https://www.instagram.com/maria.nails.pe",
+    "whatsapp": "51987654324",
+    "email": "maria@claudiaherrera.pe",
+    "telefono": "+51 987 654 324"
+  },
+  {
+    "id": 5,
+    "nombre": "Alicia",
+    "especialidad": "Técnica en Uñas y Estudiante de Psicología",
+    "descripcion": "Alicia es técnica en uñas y actualmente estudiante de psicología, lo que le permite conectar profundamente con sus clientas, brindándoles no solo un servicio estético de alta calidad, sino también una experiencia cercana y empática. Destaca por su creatividad y calidez en cada sesión.",
+    "foto": "/img/especialistas/alicia.jpg",
+    "instagram": "https://www.instagram.com/alicia.nails.pe",
+    "whatsapp": "51987654325",
+    "email": "alicia@claudiaherrera.pe",
+    "telefono": "+51 987 654 325"
   }
 ]
